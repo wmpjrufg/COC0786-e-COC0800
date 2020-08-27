@@ -25,4 +25,4 @@
 <p align="justify">Para consultar o Notebook Jypiter exemplo clique no link.</p>
 
 ![Alt ou título da imagem](https://www.flaticon.com/free-icon/file_2570575?term=python&page=1&position=5)
-<a href="notebook1.ipynb"><i>notebook</i></a>
+<a href="https://wmpjrufg.github.io/COC0786-e-COC0800/Notebook/notebook1.html"><i>notebook</i></a>
