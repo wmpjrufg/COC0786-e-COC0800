@@ -24,4 +24,5 @@
 
 <p align="justify">Para consultar o Notebook Jypiter exemplo clique no link.</p>
 
+![Alt ou título da imagem](https://www.flaticon.com/free-icon/file_2570575?term=python&page=1&position=5)
 <a href="https://www.kaggle.com/austinreese/craigslist-carstrucks-data"><i>notebook</i></a>
