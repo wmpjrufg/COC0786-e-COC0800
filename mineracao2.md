@@ -1,0 +1,8 @@
+<p align="justify">A etapa de pré-processamento é posterior a coleta ou seleção dos dados que serão tratados para extração de conhecimento. 
+O pré-processamento dos dados é então uma etapa primordial em problemas que envolvem Mineração de Dados e é onde normalmente se gasta a maior energia para aplicação de modelos de Mineração de Dados. 
+Fernandez [1] afirma que 70% do tempo gasto no processo de mineração de dados é com o pré-processamento das informações. 
+Portanto é nessa etapa que o cientista de dados deverá ter o entendimento do “negócio”e com esse entendimento fazer a preparação da base de dados.</p>
+
+<p align="justify">A escolha dos atributos (ou variáveis) da forma mais assertiva possível poderá garantir um bom desempenho no processo de extração de conhecimento de uma base. 
+A etapa de pré-processamento dos dados tem como objetivo preparar os dados para que seja possível aplicar os modelos de Inteligência Computacional que serão detalhados na fase de processamento. 
+Nessa etapa questões como a qualidade dos dados, pré-visualização dos dados, seleção de atributos mais relevantes são fatores que o analista de dados deverá levar em consideração para realização de uma avaliação mais assertiva.</p> 
