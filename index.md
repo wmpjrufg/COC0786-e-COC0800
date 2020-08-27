@@ -4,6 +4,6 @@
 - Aluno da disciplina: Wanderlei Malaquias Pereira Junior.
 
 
-#### [INTRODUÇÃO À MINERAÇÃO DE DADOS](https://wmpjrufg.github.io/COC0786-e-COC0800/mineração1.html)
-#### [PRÉ-PROCESSAMENTO DE DADOS](https://wmpjrufg.github.io/COC0786-e-COC0800/mineração2.html)
+#### [INTRODUÇÃO À MINERAÇÃO DE DADOS](https://wmpjrufg.github.io/COC0786-e-COC0800/mineracao1.html)
+#### [PRÉ-PROCESSAMENTO DE DADOS](https://wmpjrufg.github.io/COC0786-e-COC0800/mineracao2.html)
 
