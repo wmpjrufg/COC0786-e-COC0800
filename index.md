@@ -7,6 +7,6 @@
 - Aluno da disciplina: Wanderlei Malaquias Pereira Junior.
 
 
-## [INTRODUÇÃO À MINERAÇÃO DE DADOS](https://wmpjrufg.github.io/CIV254-UFSCar/mineração1.html)
-## [PRÉ-PROCESSAMENTO DE DADOS](https://wmpjrufg.github.io/CIV254-UFSCar/mineração2.html)
+#### [INTRODUÇÃO À MINERAÇÃO DE DADOS](https://wmpjrufg.github.io/CIV254-UFSCar/mineração1.html)
+#### [PRÉ-PROCESSAMENTO DE DADOS](https://wmpjrufg.github.io/CIV254-UFSCar/mineração2.html)
 
