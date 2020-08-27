@@ -1,4 +1,4 @@
-**COC0786 - INTELIGÊNCIA COMPUTACIONAL**
+**COC0786 - INTELIGÊNCIA COMPUTACIONAL**  
 **COC0800 - INTRODUÇÃO À CIÊNCIA DE DADOS**
 
 <p style='text-align: justify;'>Neste repositório online são disponibilizados os trabalhos sequenciais do discente Eng. Wanderlei Malaquias Pereira Junior referentes as disciplinas COC 0786 - Inteligêncial Computacional e COC 0800 - Introdução à Ciência de Dados do <a href="http://www.coc.ufrj.br/pt/">Programa de Pós-Graduação em Engenharia Civil</a> da Universidade Federal do Rio de Janeiro (UFRJ). O formato de apresentação escolhido é o de livro digital para a plataforma GITHUB.</p>
