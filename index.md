@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+**COC0786 - INTELIGÊNCIA COMPUTACIONAL**
+**COC0800 - INTRODUÇÃO À CIÊNCIA DE DADOS**
 
-You can use the [editor on GitHub](https://github.com/wmpjrufg/COC0786-e-COC0800/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p style='text-align: justify;'>Neste repositório online são disponibilizados os trabalhos sequenciais do discente Eng. Wanderlei Malaquias Pereira Junior referentes as disciplinas COC 0786 - Inteligêncial Computacional e COC 0800 - Introdução à Ciência de Dados do <a href="http://www.coc.ufrj.br/pt/">Programa de Pós-Graduação em Engenharia Civil PPGEciv</a> da Universidade Federal do Rio de Janeiro (UFRJ). O formato de apresentação escolhido é o de livro digital para a plataforma GITHUB.</p>
+  
+- Orientadores das disciplinas: [Prof. Alexandre Gonçalves Evsukoff](http://lattes.cnpq.br/6443456845137235) e [Prof. Rogério Pinto Espindola](http://lattes.cnpq.br/8968151880884493);
+- Aluno da disciplina: Wanderlei Malaquias Pereira Junior.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## [INTRODUÇÃO À MINERAÇÃO DE DADOS](https://wmpjrufg.github.io/CIV254-UFSCar/mineração1.html)
+## [PRÉ-PROCESSAMENTO DE DADOS](https://wmpjrufg.github.io/CIV254-UFSCar/mineração2.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wmpjrufg/COC0786-e-COC0800/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
