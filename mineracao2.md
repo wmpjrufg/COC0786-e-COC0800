@@ -4,4 +4,4 @@
 
 <p align="justify">A escolha dos atributos (ou variáveis) da forma mais assertiva possível poderá garantir um bom desempenho no processo de extração de conhecimento de uma base. A etapa de pré-processamento dos dados tem como objetivo preparar os dados para que seja possível aplicar os modelos de Inteligência Computacional que serão detalhados na fase de processamento. Nessa etapa questões como a qualidade dos dados, pré-visualização dos dados, seleção de atributos mais relevantes são fatores que o analista de dados deverá levar em consideração para realização de uma avaliação mais assertiva.</p> 
 
-<p align="justify">Para esse processo é fundamental a utilização dos procedimentos de Análise Exploratória de Dados (<b>EDA <i>Exploratory Data Analysis<i></b>) que consiste na aplicação de técnicas estatísticas para obter esse conhecimento prévio da base.</p> 
+<p align="justify">Para esse processo é fundamental a utilização dos procedimentos de Análise Exploratória de Dados (<b>EDA <i>Exploratory Data Analysis</i></b>) que consiste na aplicação de técnicas estatísticas para obter esse conhecimento prévio da base.</p> 
