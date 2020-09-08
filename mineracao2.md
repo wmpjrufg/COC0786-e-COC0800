@@ -35,8 +35,6 @@
 + Aenean sit amet erat nunc
 + Eget porttitor lorem
 
-!!!!na frente do texto    
-!!!na frente do texto       
 
 |  nome |  imagem |
 |-------|---------|
