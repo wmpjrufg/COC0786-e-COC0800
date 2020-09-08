@@ -35,8 +35,8 @@
 + Aenean sit amet erat nunc
 + Eget porttitor lorem
 
-Para mostrar um Sucesso coloque !!!!na frente do texto:
-Para mostrar uma Informação coloque !!!na frente do texto:
+!!!! na frente do texto:  
+!!! na frente do texto:  
 
 |  nome |  imagem |
 |---|---|
