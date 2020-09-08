@@ -44,7 +44,16 @@
 
 <p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
 
+```python
+    my_array.each do |item|
+        puts item
+    end 
+```
 
-
+```php
+    my_array.each do |item|
+        puts item
+    end 
+```
 
 <a href="https://nbviewer.jupyter.org/github/wmpjrufg/COC0786-e-COC0800/blob/gh-pages/Notebooks/notebook1.ipynb"><i>notebook 1 de carros usados</i></a>
