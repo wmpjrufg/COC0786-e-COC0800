@@ -22,9 +22,23 @@
 
 <p align="justify">Para consultar o Notebook Jypiter exemplo clique no link.</p>
 
-<div>
-  <h2>This is a heading in a div element</h2>
-  <p>This is some text in a div element.</p>
-</div>
++ Lorem ipsum dolor sit amet
++ Consectetur adipiscing elit
++ Integer molestie lorem at massa
++ Facilisis in pretium nisl aliquet
++ Nulla volutpat aliquam velit
+  - Phasellus iaculis neque
+  - Purus sodales ultricies
+  - Vestibulum laoreet porttitor sem
+  - Ac tristique libero volutpat at
++ Faucibus porta lacus fringilla vel
++ Aenean sit amet erat nunc
++ Eget porttitor lorem
+
+Para mostrar um Sucesso coloque !!!!na frente do texto:
+Para mostrar uma Informação coloque !!!na frente do texto:
+
+
+
 
 <a href="https://nbviewer.jupyter.org/github/wmpjrufg/COC0786-e-COC0800/blob/gh-pages/Notebooks/notebook1.ipynb"><i>notebook 1 de carros usados</i></a>
