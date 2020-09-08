@@ -11,17 +11,20 @@
 <p align="justify">A limpeza dos dados é a primeira tarefa de pré-processamento de dados. Nessa etapa tarefas de verificação de registros incompletos (<i>missing values</i>), duplicados e dados incorretos são analisados. Em relação aos registros incompletos Schmitt [2] afirma que são soluções passíveis de aplicação:</p>
 
 1. Ignorar os registros;
-
 2. Completar manualmente os valores faltantes;
-
 3. Substituir por uma constante global;
-
 4. Uso da média para preencher os valores faltantes;
-
 5. Uso do valor mais provável, que pode ser predito com outra técnica de aprendizado de máquina como por exemplo os modelos de aprendizado semi-supervisionado.
 
-<p align="justify">Para ilustrar essas situações vamos aplicar alguns critérios de limpeza dos dados no <a href="https://www.kaggle.com/austinreese/craigslist-carstrucks-data"><i>dataset</i></a> de carros usados da Craiglist. O arquivo pode ser acessado via plataforma Kaggle e se trata de um problema de predição de preços de veículos usados no Estados Unidos da América. O <a href="https://www.kaggle.com/austinreese/craigslist-carstrucks-data"><i>dataset</i></a> possui um total de 25 colunas com descrições de modelo, fabricante, cor e outros tipos de dados relativos à um veículo.</p>
+<p align="justify">Outro aspecto a se observar na limpeza de dados são as variáveis com valores incorretos que tecnicamente são denominados na literatura como ruídos ou outliers. Esses ruídos normalmente desviam-se significativamente do padrão restante da população. Por exemplo em um banco de dados com alturas humanas existe um valor registrado de 6 metros, esse erro tipográfico produziu um outliers no conjunto de dados relativos à altura [3]. Porém deve-se ter atenção pois nem sempre outliers são produtos de erros de preenchimento, sendo que esse ruído pode ser apenas um dado que naturalmente se desvia do restante das amostras. Em problemas que envolvem análise de transações bancárias os outliers são muito importantes pois eles são um indicativo de fraudes no sistema.</p>
+
+<p align="justify">Para ilustrar essas situações vamos aplicar alguns critérios de limpeza dos dados no dataset [4] de carros usados da Craiglist.org. O arquivo pode ser acessado via plataforma Kaggle e se trata de um problema de predição de preços de veículos usados no Estados Unidos da América. O dataset [4] possui um total de 25 colunas com descrições de modelo, fabricante, cor e outros.</p>
 
 <p align="justify">Para consultar o Notebook Jypiter exemplo clique no link.</p>
+
+<div>
+  <h2>This is a heading in a div element</h2>
+  <p>This is some text in a div element.</p>
+</div>
 
 <a href="https://nbviewer.jupyter.org/github/wmpjrufg/COC0786-e-COC0800/blob/gh-pages/Notebooks/notebook1.ipynb"><i>notebook 1 de carros usados</i></a>
