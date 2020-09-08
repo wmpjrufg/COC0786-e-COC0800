@@ -24,4 +24,4 @@
 
 <p align="justify">Para consultar o Notebook Jypiter exemplo clique no link.</p>
 
-<a href="https://nbviewer.jupyter.org/github/wmpjrufg/COC0786-e-COC0800/blob/gh-pages/Notebooks/notebook1.ipynb"><i>notebook</i></a>
+<a href="https://nbviewer.jupyter.org/github/wmpjrufg/COC0786-e-COC0800/blob/gh-pages/Notebooks/notebook1.ipynb"><i>notebook 1 de carros usados</i></a>
