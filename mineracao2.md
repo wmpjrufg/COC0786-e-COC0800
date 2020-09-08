@@ -42,6 +42,8 @@
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
 
+<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
+
 
 
 
